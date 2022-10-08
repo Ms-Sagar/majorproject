@@ -1,0 +1,21 @@
+table {
+    border: 1px solid orangered;
+    width: 100%;
+    height: 20px;
+    table-layout: fixed;
+    
+    
+  }
+    
+.imgs{
+  width : 30px;
+  height : 30px;
+} 
+
+td{
+  border :1px solid  orangered;
+  text-align: center;
+  width: 80px;
+  height: 20px;
+  table-layout: fixed;
+}
